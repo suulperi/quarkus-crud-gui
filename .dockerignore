@@ -1,0 +1,11 @@
+Containerfile*
+README.md
+dist
+node_modules
+test
+*.log
+.dockerignore
+.taprc
+.npmrc
+.env*
+package-lock.json
